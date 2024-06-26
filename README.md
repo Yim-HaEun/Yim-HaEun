@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
 <a href="mailto:gkdms2710@naver.com" target="_blank">
-<img src="https://img.shields.io/badge/Mail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
 - 🔭 I’m currently working on ...
