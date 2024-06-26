@@ -1,6 +1,7 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
+<a href="https://velog.io/@oka1313">
+<img src="https://img.shields.io/badge/Tistory-#FF5722?style=for-the-badge&logo=Tistory&logoColor=white">
+
 <!--
 **Yim-HaEun/Yim-HaEun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
