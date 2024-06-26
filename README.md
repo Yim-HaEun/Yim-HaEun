@@ -8,8 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yim-HaEun&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdms2710&layout=compact)
+
 - 🌱 I’m currently learning ...
 
 - 💬 Ask me about ...
