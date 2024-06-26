@@ -1,4 +1,4 @@
-## Welcome  👋
+## Welcome 
 <a href="https://gkdms2710.tistory.com/category">
 <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yim-HaEun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yim-haeun&layout=compact)
 - 🌱 I’m currently learning ...
 
 - 💬 Ask me about ...
