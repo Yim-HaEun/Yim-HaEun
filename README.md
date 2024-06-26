@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <div/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yim-HaEun)
+![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=Yim-HaEun
   - 🌱 I’m currently learning ...
 
 - 💬 Ask me about ...
