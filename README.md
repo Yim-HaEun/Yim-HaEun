@@ -1,10 +1,9 @@
 ## Welcome 
+<div align = "center">
 <a href="https://gkdms2710.tistory.com/category">
 <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
-<a href="mailto:gkdms2710@naver.com" target="_blank">
-<img src="https://img.shields.io/badge/Mail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
+</div>
 
 - 🔭 I’m currently working on ...
 <div align = "center">
@@ -18,16 +17,18 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <div/>
-<div align = "center">
+
+  <div align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yim-HaEun&layout=compact&langs_count=10&bg_color=45,#283048,#859398&title_color=ffffff&text_color=ffffff&hide_border=False" />
   </a>
-
 </div>
 
   - 🌱 I’m currently learning ...
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<div align = "center">
+- 📫 How to reach me: ...<a href="mailto:gkdms2710@naver.com" target="_blank">
+<img src="https://img.shields.io/badge/Mail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+</div>
 
--->
