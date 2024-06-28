@@ -54,7 +54,7 @@
 
 
 <div align = "center">
-      💻 DEV's log  📫Contact 
+      💻 DEV's log  📫Contact <br/>
 <a href="https://gkdms2710.tistory.com/category">
 <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
