@@ -1,7 +1,7 @@
 ## Welcome 
 
 
-- 🔭Tech Stack
+### 🔭Tech Stack
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
@@ -12,11 +12,8 @@
      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
      <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-</div>
-    
-<!-- Backend -->
-    
+</div>    
+<!-- Backend -->   
 <p><strong>Backend</strong></p>
 <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
@@ -56,9 +53,7 @@
   - 🌱 Studying
 
 <div align = "center">
-
-
--My Projects
+</div>
 
  💻 DEV's log  📫Contact 
 <div align = "center">
