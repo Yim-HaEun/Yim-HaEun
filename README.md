@@ -50,7 +50,7 @@
   </a>
 </div>
 
-###⯌ Studying
+### ⯌ Studying
 
 
 <div align = "center">
