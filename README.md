@@ -60,13 +60,11 @@
 
 -My Projects
 
-- 💻 DEV's log 
+ 💻 DEV's log  📫Contact 
 <div align = "center">
 <a href="https://gkdms2710.tistory.com/category">
 <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
-</div>
-- 📫Contact <a href="mailto:gkdms2710@naver.com" target="_blank">
-<img src="https://img.shields.io/badge/Mail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<a href="mailto:gkdms2710@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
-</div>
+
