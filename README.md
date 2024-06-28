@@ -1,4 +1,4 @@
-## ⭑☆ Haeun's git ⟡⭑
+## ⭑☆Hi, It's Haeun's git ⟡⭑
 
 
 ### ⯌ Tech Stack
