@@ -1,7 +1,7 @@
-## Haeun's git
+## ⭑☆ Haeun's git ⟡⭑
 
 
-### 🔭Tech Stack
+### ⯌ Tech Stack
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
@@ -50,7 +50,7 @@
   </a>
 </div>
 
-  - 🌱 Studying
+  - ⯌ Studying
 
 
 <div align = "center">
