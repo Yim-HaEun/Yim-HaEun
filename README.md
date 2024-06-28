@@ -1,4 +1,5 @@
 ## Welcome 
+### 💻 DEV's log 
 <div align = "center">
 <a href="https://gkdms2710.tistory.com/category">
 <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white"/>
