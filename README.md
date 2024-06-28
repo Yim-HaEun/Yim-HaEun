@@ -30,21 +30,19 @@
      <!--<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">-->
  </div>
 <!-- Server -->
-    <p><strong>Server</strong></p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  <p><strong>Tools</strong></p>
+    <p><strong>Server</strong> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <strong>Tools</strong></p>
     <div>
-        <!--<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-         &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+     <!--<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
+     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     </div>
 
 <!-- Tools -->
    
-    <div>
-  
- </div>
+
  <!-- 
   <div align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
