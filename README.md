@@ -3,8 +3,8 @@
 
 ### ⯌ Tech Stack
 
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-
+<!--<div style="display:flex; flex-direction:column; align-items:flex-start;">-->
+<div align = "center">
 <!-- Frontend -->
 <p><strong>Frontend</strong></p>
 <div>
@@ -51,6 +51,7 @@
   </a>
 </div>
 -->
+</div>
 <br/>
 
 
