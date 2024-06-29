@@ -52,7 +52,6 @@
 </div>
 -->
 
-### ⯌ Studying
 
 
 <div align = "center">
