@@ -66,6 +66,6 @@
      <a><img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
      </a>
      
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdms05169)](https://solved.ac/gkdms05169)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdms05169)](https://solved.ac/gkdms05169)-->
 
 
