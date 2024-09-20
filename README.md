@@ -55,16 +55,14 @@
 
 
 <div align = "center">
-      <p><strong>💻 DEV's log &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 📫Contact &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ✏STUDYING</strong></p><br/>
+      <p><strong>💻 DEV's log &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 📫Contact</strong></p><br/>
 <a href="https://gkdms2710.tistory.com/category">
 <img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="mailto:gkdms2710@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335.svg?style=flat-squaree&logo=Gmail&logoColor=white"/>
 </a>
-     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-     <a><img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-     </a>
+ 
      
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdms05169)](https://solved.ac/gkdms05169)-->
 
