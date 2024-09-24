@@ -64,6 +64,6 @@
 </a>
  
      
-<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdms05169)](https://solved.ac/gkdms05169)-->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdms05169)](https://solved.ac/gkdms05169)
 
 
