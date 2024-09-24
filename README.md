@@ -62,7 +62,7 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="mailto:gkdms2710@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335.svg?style=flat-squaree&logo=Gmail&logoColor=white"/>
 </a>
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
      
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdms05169)](https://solved.ac/gkdms05169)
 
