@@ -1,5 +1,6 @@
 ## ⭑☆Hi, It's Haeun's git ⟡⭑
 
+![Codex token usage and daily activity](assets/codex-usage.svg)
 
 ### ⯌ Tech Stack
 
