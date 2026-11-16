@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="200" viewBox="0 0 512 200" role="img" aria-labelledby="title desc">
   <title id="title">Codex token usage</title>
-  <desc id="desc">1,725,861,239 lifetime tokens. Daily activity through 2026-11-08. Updated 2026-11-09 KST.</desc>
+  <desc id="desc">1,769,563,266 lifetime tokens. Daily activity through 2026-11-13. Updated 2026-11-17 KST.</desc>
   <rect x="0.5" y="0.5" width="511" height="199" rx="15" fill="#111820" stroke="#303b46"/>
   <g font-family="system-ui, -apple-system, Segoe UI, sans-serif">
     <text x="24" y="37" fill="#65e5a4" font-size="16" font-weight="700">Codex token usage</text>
-    <text x="24" y="91" fill="#f0f6fc" font-size="33" font-weight="700">1,725,861,239</text>
+    <text x="24" y="91" fill="#f0f6fc" font-size="33" font-weight="700">1,769,563,266</text>
     <text x="25" y="115" fill="#aab7c4" font-size="14">Lifetime tokens</text>
-    <text x="25" y="146" fill="#65e5a4" font-size="13">1 day streak</text>
-    <text x="25" y="177" fill="#aab7c4" font-size="11">Updated 2026-11-09 KST</text>
-    <text x="296" y="35" fill="#aab7c4" font-size="11">Daily activity through 2026-11-08</text>
+    <text x="25" y="146" fill="#65e5a4" font-size="13">0 day streak</text>
+    <text x="25" y="177" fill="#aab7c4" font-size="11">Updated 2026-11-17 KST</text>
+    <text x="296" y="35" fill="#aab7c4" font-size="11">Daily activity through 2026-11-13</text>
     <rect x="296" y="50" width="12" height="12" rx="3" fill="#202833"><title>2026-08-23 · 0 tokens</title></rect>
     <rect x="296" y="66" width="12" height="12" rx="3" fill="#21a66d"><title>2026-08-24 · 14,624,319 tokens</title></rect>
     <rect x="296" y="82" width="12" height="12" rx="3" fill="#4ade91"><title>2026-08-25 · 25,619,471 tokens</title></rect>
@@ -86,7 +86,12 @@
     <rect x="456" y="114" width="12" height="12" rx="3" fill="#21a66d"><title>2026-11-05 · 18,622,969 tokens</title></rect>
     <rect x="456" y="130" width="12" height="12" rx="3" fill="#4ade91"><title>2026-11-06 · 48,791,859 tokens</title></rect>
     <rect x="456" y="146" width="12" height="12" rx="3" fill="#202833"><title>2026-11-07 · 0 tokens</title></rect>
-    <rect x="472" y="50" width="12" height="12" rx="3" fill="#174839"><title>2026-11-08 · 71,677 tokens</title></rect>
+    <rect x="472" y="50" width="12" height="12" rx="3" fill="#197752"><title>2026-11-08 · 4,177,079 tokens</title></rect>
+    <rect x="472" y="66" width="12" height="12" rx="3" fill="#4ade91"><title>2026-11-09 · 28,153,347 tokens</title></rect>
+    <rect x="472" y="82" width="12" height="12" rx="3" fill="#197752"><title>2026-11-10 · 5,922,888 tokens</title></rect>
+    <rect x="472" y="98" width="12" height="12" rx="3" fill="#197752"><title>2026-11-11 · 2,443,416 tokens</title></rect>
+    <rect x="472" y="114" width="12" height="12" rx="3" fill="#197752"><title>2026-11-12 · 1,725,184 tokens</title></rect>
+    <rect x="472" y="130" width="12" height="12" rx="3" fill="#197752"><title>2026-11-13 · 1,351,790 tokens</title></rect>
     <rect x="366" y="171" width="11" height="11" rx="2" fill="#202833"/><rect x="381" y="171" width="11" height="11" rx="2" fill="#174839"/><rect x="396" y="171" width="11" height="11" rx="2" fill="#197752"/><rect x="411" y="171" width="11" height="11" rx="2" fill="#21a66d"/><rect x="426" y="171" width="11" height="11" rx="2" fill="#4ade91"/>
     <text x="331" y="181" fill="#aab7c4" font-size="10">Less</text><text x="446" y="181" fill="#aab7c4" font-size="10">More</text>
   </g>
